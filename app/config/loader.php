@@ -15,5 +15,5 @@ $loader->registerDirs(
 	)
 )->register();
 
-echo "hiii jagrati";
+
 
